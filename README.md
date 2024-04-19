@@ -5,8 +5,8 @@ Welcome to my GitHub profile! Here's an overview of my skills:
 <!-- Skills Section -->
 ## Skills
 - **Expert**: JavaScript, TypeScript, ReactJS, Redux, Tailwind CSS
-- **Comfortable**: Vitest, Apollo GraphQL, URQL, PostgreSQL, Prisma, Next.js
-- **Familiar**: Jest, Cypress, Svelte, Supabase, React Native
+- **Comfortable**: Vitest, Apollo GraphQL, URQL, PostgreSQL, Drizzle ORM, Next.js
+- **Familiar**: Jest, Cypress, Supabase, React Native
 
 <!-- Development Tools Section -->
 ## Development Tools
@@ -20,7 +20,7 @@ I enjoy working with a range of development tools to boost my productivity and c
 <!-- Software Management Tools Section -->
 ## Software Management Tools
 To keep my projects organized and collaborate effectively, I utilize the following software management tools:
-- **Project Management**: Trello, Jira
+- **Project Management**: Trello, Jira, Slack
 - **Note-taking and Collaboration**: Notion
 
 <!-- Projects Section -->
