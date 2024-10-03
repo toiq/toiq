@@ -5,8 +5,8 @@ Welcome to my GitHub profile! Here's an overview of my skills:
 <!-- Skills Section -->
 ## Skills
 - **Expert**: JavaScript, TypeScript, ReactJS, Redux, Tailwind CSS
-- **Comfortable**: Vitest, Apollo GraphQL, URQL, PostgreSQL, Drizzle ORM, Next.js
-- **Familiar**: Jest, Cypress, Supabase, React Native
+- **Comfortable**: Vitest, MSW.js, Apollo GraphQL, URQL, PostgreSQL, Drizzle ORM, Next.js, Python, Django
+- **Familiar**: Jest, Cypress, Supabase, React Native, FastAPI
 
 <!-- Development Tools Section -->
 ## Development Tools
